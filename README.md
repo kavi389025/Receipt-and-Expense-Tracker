@@ -162,3 +162,6 @@ The app will start and provide a local URL (typically `http://localhost:8501`). 
 
 - Keep `.streamlit/secrets.toml` listed in `.gitignore` and never commit API keys or bot tokens to version control.
 - Receipts and messages are processed through Google Gemini's API in accordance with your Google Cloud / AI Studio terms of service.
+
+## Live Deployed Url of streamlit
+https://receipt-and-expense-trackergi-4ua8wvdvdc24ggrq8a6qpg.streamlit.app/ 
